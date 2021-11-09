@@ -35,7 +35,7 @@
     "node-fetch": "^2.6.5",
     "pug": "^3.0.2",
     "regenerator-runtime": "^0.13.9",
-    "dotenv": "^10.0.0",
+    "dotenv": "^10.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.16.0",
